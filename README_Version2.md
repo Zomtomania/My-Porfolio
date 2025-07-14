@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zomtomania!
 
-![Profile Picture](https://link-to-your-image.com/image.png)
+![Profile Picture](https://link-to-your-image.com/IMG_1501 copy.jpg)
 
 ## 🌐 Cloud Engineer & IT Support Specialist
 
